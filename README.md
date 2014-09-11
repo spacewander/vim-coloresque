@@ -1,3 +1,7 @@
+### Why I fork this repo
+
+There is a bug of this plugin which will affect other buffers'/windows' iskeyword setting, but the origin author has abandoned the project. So I fork it here and fix the bug.
+If you need this fix, you can use this forked repo as the url for Vundle or other plugin managers.
 Coloresque
 ==========
 
